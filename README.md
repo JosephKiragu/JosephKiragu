@@ -17,4 +17,5 @@
 ## Data Science 🏫 <br> 
 ### [Perceptron](https://github.com/JosephKiragu/perceptron) <br> 
 ### [Stock Market Prediction](https://github.com/JosephKiragu/lstm-stock-market-prediction) <br>
-### [Sentiment analysis](https://github.com/JosephKiragu/Sentiment-analysis)
+### [Sentiment analysis](https://github.com/JosephKiragu/Sentiment-analysis) <br>
+### [Image classification](https://github.com/JosephKiragu/Convulational-neural-network-for-image-classification) 
