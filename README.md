@@ -1,4 +1,9 @@
+<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="175px"/></a>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2323F715&vCenter=true&lines=Do+not+hesitate+to+contact+me)](https://git.io/typing-svg)
+
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=c,py,r,pytorch,discord,git,vim,vscode)](https://skillicons.dev)
 
 ## How To Reach Me  📫 
 
