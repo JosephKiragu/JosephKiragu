@@ -3,7 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2323F715&vCenter=true&lines=Do+not+hesitate+to+contact+me)](https://git.io/typing-svg)
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=c,py,r,pytorch,discord,git,vim,vscode)](https://skillicons.dev)
+
+> ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
+> ![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=white)
+> ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+> ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+> ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+> ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
+> ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
 
 ## How To Reach Me  📫 
 
