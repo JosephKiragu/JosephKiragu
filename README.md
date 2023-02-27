@@ -1,32 +1,20 @@
 ## How To Reach Me  📫 
 
 ### Discord :speech_balloon: <br>
-```Pasquale | prossi#3642```
+```Kiragu | jkiragu#0839```
 
 ### 42 Intra :computer: <br>
-### [prossi](https://profile.intra.42.fr/users/prossi)
-
-## 42 Piscine 🖥️  <br> 
-### [Piscine](https://github.com/pasqualerossi/42-Piscine)
-### [Piscine Exams](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam)
+### [jkiragu](https://profile.intra.42.fr/users/jkiragu)
 
 ## 42 School 🏫 <br> 
-### [Libft](https://github.com/pasqualerossi/Libft) <br> 
-### [Born2BeRoot](https://github.com/pasqualerossi/Born2BeRoot) <br> 
-### [Printf](https://github.com/pasqualerossi/Printf) <br> 
-### [Get_Next_Line](https://github.com/pasqualerossi/Get_Next_Line) <br> 
-### [MiniTalk](https://github.com/pasqualerossi/MiniTalk) <br> 
-### [So_Long](https://github.com/pasqualerossi/So_Long) <br> 
-### [Push_Swap](https://github.com/pasqualerossi/Push_Swap)
+### [Libft](https://github.com/JosephKiragu/libft) <br> 
+### [Printf](https://github.com/JosephKiragu/ft_printf) <br> 
+### [Get_Next_Line](https://github.com/JosephKiragu/Get_Next_Line) <br> 
+### [MiniTalk](https://github.com/JosephKiragu/minitalk) <br> 
+### [Fractol](https://github.com/JosephKiragu/fractol) <br> 
+### [Push_Swap](https://github.com/JosephKiragu/Push_swap)
 
-## 42 School Exams 📝 
-
-### [School Exam Rank 02](https://github.com/pasqualerossi/42-School-Exam-Rank-02)
-
-## 42 School Tester  :mag:
-
-### [42-Cursus-Tester](https://github.com/pasqualerossi/42-Cursus-Tester)
-
-## 42 Project Submission Checklist :bookmark:
-
-### [42 Project Checklist](https://github.com/pasqualerossi/42-Project-Submission-Checklist)
+## Data Science 🏫 <br> 
+### [Perceptron](https://github.com/JosephKiragu/perceptron) <br> 
+### [Stock Market Prediction](https://github.com/JosephKiragu/lstm-stock-market-prediction) <br>
+### [Sentiment analysis](https://github.com/JosephKiragu/Sentiment-analysis)
