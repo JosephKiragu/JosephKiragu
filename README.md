@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2323F715&vCenter=true&lines=Do+not+hesitate+to+contact+me)](https://git.io/typing-svg)
+
 ## How To Reach Me  📫 
 
 ### Discord :speech_balloon: <br>
