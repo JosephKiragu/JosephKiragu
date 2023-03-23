@@ -14,6 +14,9 @@
 
 ## How To Reach Me  📫 
 
+### Email :speech_balloon: <br>
+```joseph.jkiragu@gmail.com```
+
 ### Discord :speech_balloon: <br>
 ```Kiragu | jkiragu#0839```
 
