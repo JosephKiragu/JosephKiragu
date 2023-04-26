@@ -30,12 +30,14 @@
 ### [Get_Next_Line](https://github.com/JosephKiragu/Get_Next_Line) <br> 
 ### [MiniTalk](https://github.com/JosephKiragu/minitalk) <br> 
 ### [Fractol](https://github.com/JosephKiragu/fractol) <br> 
-### [Push_Swap](https://github.com/JosephKiragu/Push_swap)
+### [Push_Swap](https://github.com/JosephKiragu/Push_swap) <br>
+### [Philosophers](https://github.com/JosephKiragu/Philosophers)
 
 ## Data Science 🏫 <br> 
 ### [Perceptron](https://github.com/JosephKiragu/perceptron) <br> 
 ### [Stock Market Prediction](https://github.com/JosephKiragu/lstm-stock-market-prediction) <br>
 ### [Sentiment analysis](https://github.com/JosephKiragu/Sentiment-analysis) <br>
-### [Image classification](https://github.com/JosephKiragu/Convulational-neural-network-for-image-classification) 
+### [Image classification](https://github.com/JosephKiragu/Convulational-neural-network-for-image-classification) <br>
+### [Natural Language Processing](https://github.com/JosephKiragu/Covid-19-Question-Answer-system) 
 
 ![github-user-contribution](https://user-images.githubusercontent.com/87255552/157782832-b6991618-236a-4a05-926c-3706b48a997b.svg)
