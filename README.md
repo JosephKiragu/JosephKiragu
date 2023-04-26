@@ -1,4 +1,5 @@
-<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDhmYmRlODk1NTNlOGVmMTFkMjE0NWMwYzBjY2ZiYWQ4MDE2Nzg0MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/aydzSk8a02hvcjwVEb/giphy.gif" height="175px"/></a>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2323F715&vCenter=true&lines=Do+not+hesitate+to+contact+me)](https://git.io/typing-svg)
 
